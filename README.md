@@ -56,8 +56,10 @@ Shape of the data: 72531, 147
 - seaborn
 - geopandas
 - scikit-learn
-### [Interactive Map:](https://datawrapper.dwcdn.net/qiQhy/3/)
-<div style="min-height:500px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/qiQhy/embed.js?v=3" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/qiQhy/full.png" alt="% of Food Insecurity" /></noscript></div>
+### Interactive Map: 
+[Here](https://datawrapper.dwcdn.net/qiQhy/3/)
+
+<img src="https://datawrapper.dwcdn.net/qiQhy/full.png" alt="% of Food Insecurity" />
 
 
 #### Reference

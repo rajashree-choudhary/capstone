@@ -56,6 +56,30 @@ Shape of the data: 72531, 147
 - seaborn
 - geopandas
 - scikit-learn
+
+### Methodology
+
+The methodology involves several steps:
+
+1. Data Cleaning:
+    - Impute missing values
+    
+2. Exploratory Data Analysis (EDA):
+    - Features correlation
+    - Population distribution
+    - Numerical features statisticical summary
+    - Categorical features distribution
+     
+3. Train-Test Split:
+    - The dataset is divided into training and testing sets to assess model performance accurately.
+
+4. Model Selection:
+    - Several classification algorithms are utilized for model training, Logistic Regression, Desicion Tree Classification, Random Forest Classification, ExtraTrees Classification and Neural Network 
+    
+5. Model Evaluation:
+    - Each classification model is trained using the training data and evaluated using testing data.
+    - Model performance metrics such as training score, testing score, and accuracy is calculated to assess the effectiveness of each model.
+
 ### Interactive Map: 
 [Here](https://datawrapper.dwcdn.net/qiQhy/3/)
 
